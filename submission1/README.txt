@@ -1,14 +1,11 @@
-GitHub: 
-https://github.com/Hasnad/CSE-424
+Overleaf link with edit access to ST, RA and instructor gmail.
+https://www.overleaf.com/project/649ff6dd6ef0850338342c0b
 
 Link to unlisted YouTube video:
 https://youtu.be/hIZNUmariQI
 
 Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1LgDduRo1Ljo6-C0eyn-PJ0gaDsE1TAdu2H_1QhXMhZA/edit?usp=sharing
-
-Overleaf link with edit access to ST, RA and instructor gmail.
-https://www.overleaf.com/project/649ff6dd6ef0850338342c0b
 
 Project title:
 Detecting and Exposing Deepfakes and Facial Manipulation through Visual Artifact Analysis and Pattern Recognition Techniques
